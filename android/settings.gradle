@@ -1,0 +1,3 @@
+rootProject.name = 'echoCave'
+
+include ':app'
